@@ -18,4 +18,4 @@ Nje shembull i nje harte te Ptolemeut
 
 Banalizim i gjithckaje
 
-![data-types](img/data-types)
+![data-types](img/data-types.png)
