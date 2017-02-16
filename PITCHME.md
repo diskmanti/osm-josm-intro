@@ -31,6 +31,11 @@
 ![node-example](img/node-example.png)
 
 #VSLIDE
-![way](img/one-way.png)
+![one-way](img/one-way.png)
 ![way-example](img/way-example.png)
 
+#VSLIDE
+![closed-way](img/closed-way.png)
+![closed-way](img/closed-way-example.png)
+![area](img/area.png)
+![area-example](img/area-example.png)
