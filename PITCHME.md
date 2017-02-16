@@ -43,5 +43,8 @@
 ![area](img/area.png)
 ![area-example](img/area-example.png)
 
+#VSLIDE
+![relation-example](img/relation-example.gif)
+
 #HSLIDE
 ###3. JOSM
