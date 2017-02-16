@@ -37,5 +37,7 @@
 #VSLIDE
 ![closed-way](img/closed-way.png)
 ![closed-way](img/closed-way-example.png)
+
+#VSLIDE
 ![area](img/area.png)
 ![area-example](img/area-example.png)
