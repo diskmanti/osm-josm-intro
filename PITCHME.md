@@ -1,5 +1,9 @@
-Hello, World!
+# OSM - JOSM INTRO 
+(for n00bs, including me :bowtie: )
 
 #HSLIDE
 
-The End :)
+###1. Pak Histori 
+
+#HSLIDE
+![Ptolemeu](img/ptolemy.png)
