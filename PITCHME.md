@@ -22,6 +22,7 @@
 ![poly](img/poly.png)
 
 #HSLIDE
+###2. OSM Data 
 1. NODE
 2. WAY
 3. RELATION
@@ -41,3 +42,6 @@
 #VSLIDE
 ![area](img/area.png)
 ![area-example](img/area-example.png)
+
+#HSLIDE
+###3. JOSM
