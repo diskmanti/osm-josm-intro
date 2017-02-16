@@ -28,22 +28,27 @@
 3. RELATION
 
 #VSLIDE
+NODE
 ![node](img/node.png)
 ![node-example](img/node-example.png)
 
 #VSLIDE
+ONE-WAY
 ![one-way](img/one-way.png)
 ![way-example](img/way-example.png)
 
 #VSLIDE
+CLOSED-WAY
 ![closed-way](img/closed-way.png)
 ![closed-way](img/closed-way-example.png)
 
 #VSLIDE
+AREA
 ![area](img/area.png)
 ![area-example](img/area-example.png)
 
 #VSLIDE
+RELATION
 ![relation-example](img/relation-example.gif)
 
 #HSLIDE
