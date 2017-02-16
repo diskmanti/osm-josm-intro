@@ -23,3 +23,8 @@
 
 #VSLIDE
 ![poly](img/poly.png)
+
+#HSLIDE
+1. NODE
+2. WAY
+3. RELATION
