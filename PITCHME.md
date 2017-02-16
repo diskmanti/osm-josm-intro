@@ -31,6 +31,6 @@
 ![node-example](img/node-example.png)
 
 #VSLIDE
-![way](img/way.png)
+![way](img/one-way.png)
 ![way-example](img/way-example.png)
 
