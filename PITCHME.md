@@ -30,4 +30,5 @@
 3. RELATION
 
 #VSLIDE
-![node](img/node.png)
+![node](img/node.png)![node-example](img/node-example.png)
+
