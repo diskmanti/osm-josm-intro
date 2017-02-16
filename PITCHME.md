@@ -12,9 +12,6 @@
 #HSLIDE
 ###2. Banalizim i (objekteve te)botes
 
-#HSLIDE
-![data-types](img/data-types.png)
-
 #VSLIDE
 ![points](img/points.png)
 
@@ -30,5 +27,6 @@
 3. RELATION
 
 #VSLIDE
-![node](img/node.png)![node-example](img/node-example.png)
+![node](img/node.png)
+![node-example](img/node-example.png)
 
