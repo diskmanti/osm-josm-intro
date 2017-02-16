@@ -10,14 +10,14 @@
 
 #VSLIDE?image=img/ptolemy-map.jpg
 
-Nje shembull i nje harte te Ptolemeut
-
 #HSLIDE
 
 ###2. Banalizim i (objekteve te)botes
 
 #HSLIDE
 
-
-
 ![data-types](img/data-types.png)
+
+#VSLIDE
+
+![points](img/points.png)
